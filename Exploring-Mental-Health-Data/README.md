@@ -2,7 +2,7 @@
 
 Playground Series - Season 4, Episode 11
 
-![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/84895/logos/header.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1750529766&Signature=FuqIl1YNXNpWeMsxCn1ZQrIHGJYKUxeP%2Bq54OMOUoGlgW3Rt0d1OXgrQEXLVJyZ6upGDqkBTfq6X%2FIDw7bXq6x8DjhDMoKT1xsgx1KQlNN2vnaxPBCeGiJGbhabkcju1AcC7R%2BTmn1i1gfTHSa8ufvoTaomdPLxuEFFaKG%2BEnTD%2BpSLYxLkIHqc16BoAGNx3yRooDMA5tj%2F2qxnuRDYC9LbKq%2BwDXLCCX7LEmSFXegM%2BOIFYobBtXYhLT9a4AIof6ZQLkq6VoK1I2BGUJlV3DprigKaA3nddenTawKHrEAaodsOx1gIbVVGoYnn5dJIgbE9YuNF95MfUIXyUFLgLVA%3D%3D)
+![header](https://github.com/user-attachments/assets/91765ddf-c671-499c-814a-f3fe300fe1cf)
 
 ***
 
