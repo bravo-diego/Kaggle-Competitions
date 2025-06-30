@@ -2,6 +2,8 @@
 
 This dataset contains 285 million users' events from eCommerce website.
 
+![dataset-cover](https://github.com/user-attachments/assets/79e24092-3747-43a7-8dc4-708c0f87c6b7)
+
 ***
 
 ## About Dataset
